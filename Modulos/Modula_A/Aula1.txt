@@ -52,4 +52,4 @@ Aula 1 - Por que ser programador?
             - Um novo "idioma"
             - Você irá apenas entender a linguagem dos computadores 0 e 1 
 
-        E neste curso iremos aprender python!
+        E neste curso iremos aprender python! 
