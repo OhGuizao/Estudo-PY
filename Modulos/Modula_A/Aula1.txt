@@ -1,0 +1,55 @@
+Aula 1 - Por que ser programador?
+    Antes de aprender o python...
+
+        # Estatistíca CODE.ORG
+            - De acordo com essa impresa:
+                Daqui 10 anos precisaremos 1.4 milhões de programadores
+                E continuando do jeito que estamos teremos apenas 400 mil programadores
+
+        
+        # Hoje aplicamos a programação aonde?
+            - Celulares
+            - Video games
+            - Computadores
+            - Tv inteligente
+            - Apple wacth 
+            - e muito mais ...
+
+        # Coisa que estão surgindo hoje com a programação
+            - Carros que estão andam sozinho
+            - Inteligencia artificial
+            - Multiverso
+
+        # Vantagens da programação
+            - Resolve problemas mais rápido
+            - Mais criativo
+            - Espírito de comunidade
+        
+        # Mitos
+            - Velho ou novo demais para programar
+            - Programar também é para mulher
+            - Morar longe não é problema
+            - Sou de outra aréa
+        
+        # Maiores obstáculos
+            - Falta de compromisso
+            - Excesso de pressa
+            - Poucos Exercícios práticos
+            - Não valorizar a base
+            - Achar que já sabe tudo
+        
+        # É difícil?
+            - Progamar não é facíl mas também não é difícil
+
+        # Aréas da programação
+            - Desktop
+            - Website
+            - Mobile
+            - IoT
+            - Games
+
+        # E o que é programação?
+            - Um novo "idioma"
+            - Você irá apenas entender a linguagem dos computadores 0 e 1 
+
+        E neste curso iremos aprender python!
