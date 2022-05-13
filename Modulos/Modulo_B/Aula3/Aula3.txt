@@ -1,0 +1,13 @@
+Aula 3 - Instalando o python e o IDLE
+    
+    # O que é o IDLE?
+        O idle do python é um intérprete do ser humano ao computador
+        ,sendo assim as linguagens são interpretadores de seres humanos as maquínas
+
+    # Instalando python
+        # Mac e Linux
+            Para esses sistemas operacionais, o python já vem instalado, talvez apenas é necessario uma atualização
+            terminal > sudo apt-get install python3.6
+        # Windows
+            já no Windows você precisa baixar do site: 
+            python.org > dowloads > python3 release > baixa > executa
