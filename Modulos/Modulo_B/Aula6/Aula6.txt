@@ -1,0 +1,16 @@
+Aula 6 - Tipos primitivos
+    tipos primitivos do python
+
+    Tipos primitivos:
+        - int 
+            inteiros (positivo, negativo ou nulo)
+        - float
+            números com vírgula(ponto flutuânte)
+        - bool(ean)
+            True     False
+        - str(ing)
+            palavras entre aspas ("" '' ``)
+
+    Saída de dados:
+        - print({v1}{v2}{v3})
+        - .format(v1,v2.v3)
