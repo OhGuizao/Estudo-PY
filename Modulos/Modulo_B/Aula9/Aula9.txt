@@ -1,0 +1,25 @@
+Aula 9 - Manipulação de texto
+    Cadeias de caracteres
+
+        # Indíce de string
+            - Fatiamento
+                 ex:
+                     nome =    G  U  I  L  H  E  R  M  E     V  I  E  I  R  A
+                               0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15
+
+                         nome[10:13] - V I E R
+                         sempre deixando o número de fora
+
+
+                    idade =   E  U     T  E  N  H  O     1  8
+                              0  1  2  3  4  5  6  7  8  9  10
+
+                        idade[0:11:2] - E     E  H     8
+                                        0  2  4  6  8  10
+                                    pulando de 2 em 2
+            - Análise
+                - len
+                    comprimento da string
+
+                - count("o", 0, 13)
+                    contar quantos o existem na string

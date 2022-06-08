@@ -1,0 +1,18 @@
+Aula 7 - Operadores aritméticos
+Sabendo um pouco desses Operadores
+
+    -   Operador    Significado       Resultado
+           +          adição         5+2  ==  7
+           -         subtração       5-2  ==  3
+           *       multiplicação     5*2  ==  10
+           /          divisao        5/2  ==  2.5
+           **        potência        5**2 ==  25
+           //     divisao inteira    5//2 ==  2
+           %      resto da divisao   5%2  ==  1
+
+
+    - Ordem de precedência
+    1 ()
+    2 **
+    3 * / // %
+    4 + -
